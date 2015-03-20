@@ -12,7 +12,8 @@
     "require": {
         "php":                               ">=5.3.3",
         "symfony/validator":                 "~2.6",
-        "zendframework/zend-validator":      "~2.3"
+        "zendframework/zend-validator":      "~2.3",
+        "zendframework/zend-servicemanager": "~2.3"
     },
     "autoload": {
         "psr-0": { "Zymfony": "src" }
